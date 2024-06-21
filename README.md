@@ -1,5 +1,6 @@
-## Hi I'm Gilmar Ito 👋
+## Hi, I'm Gilmar Ito 👋
 <p>Contact: gilmarkazuhiro3@gmail.com</p>
+<p>Bacharelado em Sistemas de informação UTFPR</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gk.ito/)
 
